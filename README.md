@@ -1,14 +1,12 @@
--Linux
-	-ls
-	-pwd
-	-cd
-	-mkdir
-	-touch
-	-cp
-	-mv
-	-rm
-	-cat
-	-wildcard
-	-&&
-	
-
+# Linux command
+- ls
+- pwd
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- cat
+- wildcard
+- &&
